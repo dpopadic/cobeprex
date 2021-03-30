@@ -1,4 +1,4 @@
 # cobeprex
 Coding best practice examples
 
-> SOLID: solid.py
+> SOLID Principles: `solid.py`
